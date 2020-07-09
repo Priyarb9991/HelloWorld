@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            // a comment
             Console.WriteLine("Hello World!");
         }
     }
